@@ -1,0 +1,7 @@
+C:\Users\ural4\Desktop\GitHub\snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\ural4\Desktop\GitHub\snake\Snake\bin\Debug\Snake.exe
+C:\Users\ural4\Desktop\GitHub\snake\Snake\bin\Debug\Snake.pdb
+C:\Users\ural4\Desktop\GitHub\snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\ural4\Desktop\GitHub\snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\ural4\Desktop\GitHub\snake\Snake\obj\Debug\Snake.exe
+C:\Users\ural4\Desktop\GitHub\snake\Snake\obj\Debug\Snake.pdb
